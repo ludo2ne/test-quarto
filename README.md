@@ -1,6 +1,6 @@
 # test-quarto
 
-:contruction:
+🚧
 
 ## 1. Créer un projet Quarto contenant :
 * _quarto.yml
