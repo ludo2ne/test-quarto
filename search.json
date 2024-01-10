@@ -1,24 +1,17 @@
 [
   {
-    "objectID": "index.html#introduction",
-    "href": "index.html#introduction",
+    "objectID": "index.html#comment-stocker-les-données",
+    "href": "index.html#comment-stocker-les-données",
     "title": "test Title",
-    "section": "Introduction",
-    "text": "Introduction\n\nbienvenue\nbonjour\n\n\n\nnote 1\nrevealJS"
+    "section": "1.1 Comment stocker les données",
+    "text": "1.1 Comment stocker les données\ndans calc"
   },
   {
-    "objectID": "index.html#les-bases-de-données",
-    "href": "index.html#les-bases-de-données",
+    "objectID": "index.html#les-bddr",
+    "href": "index.html#les-bddr",
     "title": "test Title",
-    "section": "1. Les bases de données",
-    "text": "1. Les bases de données\nblabla\n\n1.1 Comment stocker les données\ndans calc\n1.2 les bddr\nBddr\n\nSome additional commentary of more peripheral interest."
-  },
-  {
-    "objectID": "index.html#partie-2",
-    "href": "index.html#partie-2",
-    "title": "test Title",
-    "section": "2. Partie 2",
-    "text": "2. Partie 2\n2e partie\n\n\nCompléments d’info CM1"
+    "section": "1.2 les bddr",
+    "text": "1.2 les bddr\nBddr"
   },
   {
     "objectID": "about.html",
