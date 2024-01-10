@@ -4,14 +4,21 @@
     "href": "index.html#introduction",
     "title": "test Title",
     "section": "Introduction",
-    "text": "Introduction\n\nbienvenue\nbonjour\n\n\n\nnote 1\nnote 2"
+    "text": "Introduction\n\nbienvenue\nbonjour\n\n\n\nnote 1\nrevealJS"
   },
   {
-    "objectID": "index.html#partie-1",
-    "href": "index.html#partie-1",
+    "objectID": "index.html#les-bases-de-données",
+    "href": "index.html#les-bases-de-données",
     "title": "test Title",
-    "section": "Partie 1",
-    "text": "Partie 1\nblabla\n\n\n\nCompléments d’info CM1\n\n\nSome additional commentary of more peripheral interest."
+    "section": "1. Les bases de données",
+    "text": "1. Les bases de données\nblabla\n\n1.1 Comment stocker les données\ndans calc\n1.2 les bddr\nBddr\n\nSome additional commentary of more peripheral interest."
+  },
+  {
+    "objectID": "index.html#partie-2",
+    "href": "index.html#partie-2",
+    "title": "test Title",
+    "section": "2. Partie 2",
+    "text": "2. Partie 2\n2e partie\n\n\nCompléments d’info CM1"
   },
   {
     "objectID": "about.html",
