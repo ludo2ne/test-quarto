@@ -1,4 +1,0 @@
-- source: project
-  netlify:
-    - id: 5
-      url: 'https://quarto.org'
