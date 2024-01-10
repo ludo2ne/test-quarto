@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "index.html#some-slide-content",
-    "href": "index.html#some-slide-content",
+    "objectID": "index.html#introduction",
+    "href": "index.html#introduction",
     "title": "test Title",
-    "section": "Some slide content",
-    "text": "Some slide content\nThese are some words"
+    "section": "Introduction",
+    "text": "Introduction\n\nbienvenue\nbonjour\n\n\n\nnote 1\nnote 2"
+  },
+  {
+    "objectID": "index.html#partie-1",
+    "href": "index.html#partie-1",
+    "title": "test Title",
+    "section": "Partie 1",
+    "text": "Partie 1\nblabla\n\n\n\nCompléments d’info CM1\n\n\nSome additional commentary of more peripheral interest."
   },
   {
     "objectID": "about.html",
