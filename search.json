@@ -40,5 +40,19 @@
     "title": "About Quarto",
     "section": "Contribute",
     "text": "Contribute\nYou can contribute to Quarto in many ways:\n\nBy opening issues to provide feedback and share ideas.\nBy submitting Pull Request (PR) to fix opened issues\nBy submitting Pull Request (PR) to suggest new features (it is considered good practice to open an issue for discussion before working on a pull request for a new feature).\n\nPlease be mindful of our code of conduct as you interact with other community members.\n\nPull Requests\nPull requests are very welcome! Here’s how to contribute via PR:\n\nFork the repository, clone it locally, and make your changes in a new branch specific to the PR. For example:\n\n\nTerminal\n\n# clone your fork\n$ git clone https://github.com/&lt;username&gt;/quarto-cli\n\n# configure for your platform (./configure.sh or ./configure.cmd for windows)\n$ cd quarto-cli\n$ ./configure.sh\n\n# checkout a new branch\n$ git checkout -b feature/newthing\n\nFor significant changes (e.g more than small bug fixes), ensure that you have signed the individual or corporate contributor agreement as appropriate. You can send the signed copy to jj@rstudio.com.\nSubmit the pull request. It is ok to submit as draft in your are still working on it but would like some feedback from us. It always good to share in the open that you are working on it.\n\nWe’ll try to be as responsive as possible in reviewing and accepting pull requests."
+  },
+  {
+    "objectID": "git.html",
+    "href": "git.html",
+    "title": "Git",
+    "section": "",
+    "text": "bienvenue\nbonjour\n\n\n\nparce que"
+  },
+  {
+    "objectID": "git.html#pourquoi-versionner",
+    "href": "git.html#pourquoi-versionner",
+    "title": "Git",
+    "section": "",
+    "text": "parce que"
   }
 ]
