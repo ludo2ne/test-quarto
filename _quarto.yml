@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "Example_slides"
+  title: "test Ludo"
   navbar:
     left:
       - href: index.qmd
