@@ -1,3 +1,19 @@
+---
+title: "Introduction à Git"
+author: "Ludovic Deneuville"
+format: 
+  revealjs: 
+    theme: moon
+    footer: "Introduction à Git"
+    slide-number: true
+    show-slide-number: print
+    navigation-mode: vertical
+    preview-links: auto
+    chalkboard: true
+    controls: true
+    transition: slide
+---
+
 # Git
 
 - bienvenue
