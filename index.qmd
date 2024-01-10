@@ -15,13 +15,17 @@ format:
 
 # Introduction
 
-- bienvenue
 - bonjour
+- [revealJS](https://quarto.org/docs/presentations/revealjs/)
 
 ::: {.notes}
 - note 1
-- [revealJS](https://quarto.org/docs/presentations/revealjs/)
+- note 2
 :::
+
+# Lien vers un autre fichier qmd
+
+- [Git](docs/git.html)
 
 # 1. Les bases de données
 
