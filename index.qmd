@@ -5,8 +5,9 @@ format:
   revealjs: 
     theme: moon
     footer: "Compléments d'info CM1"
-    slide-number: true
+    slide-number: c/t
     show-slide-number: print
+    navigation-mode: vertical
 ---
 
 ## Introduction
