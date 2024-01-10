@@ -1,9 +1,7 @@
 ---
 title: "test Title"
 author: "Ludovic Deneuville"
-format: 
-  revealjs:
-    theme: custom.scss
+format: revealjs
 ---
 
 ## Some slide content {.theme-slide1}
