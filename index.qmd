@@ -10,9 +10,10 @@ format:
     navigation-mode: vertical
     preview-links: auto
     chalkboard: true
+    controls: true
 ---
 
-## Introduction
+# Introduction
 
 - bienvenue
 - bonjour
@@ -22,7 +23,7 @@ format:
 - [revealJS](https://quarto.org/docs/presentations/revealjs/)
 :::
 
-## 1. Les bases de données
+# 1. Les bases de données
 
 blabla
 
@@ -30,14 +31,14 @@ blabla
 Some additional commentary of more peripheral interest.
 :::
 
-### 1.1 Comment stocker les données
+## 1.1 Comment stocker les données
 
 dans calc
 
-### 1.2 les bddr
+## 1.2 les bddr
 
 Bddr
 
-## 2. Partie 2
+# 2. Partie 2
 
 2e partie
