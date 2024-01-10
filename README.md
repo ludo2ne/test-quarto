@@ -13,3 +13,6 @@
 * Settings > Pages
   * Deploy from a branch
   * branch : gh-pages
+* Settings > Action > General
+  * Workflow permissions
+    * [x] Read and write permissions
