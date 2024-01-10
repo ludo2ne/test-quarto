@@ -4,8 +4,25 @@ author: "Ludovic Deneuville"
 format: 
   revealjs: 
     theme: moon
+    footer: "Compléments d'info CM1"
+    slide-number: true
+    show-slide-number: print
 ---
 
-## Some slide content {.theme-slide1}
+## Introduction
 
-These are some words
+- bienvenue
+- bonjour
+
+::: {.notes}
+- note 1
+- note 2
+:::
+
+## Partie 1
+
+blabla
+
+::: aside
+Some additional commentary of more peripheral interest.
+:::
