@@ -8,6 +8,8 @@ format:
     slide-number: c/t
     show-slide-number: print
     navigation-mode: vertical
+    preview-links: auto
+    chalkboard: true
 ---
 
 ## Introduction
@@ -17,13 +19,25 @@ format:
 
 ::: {.notes}
 - note 1
-- note 2
+- [revealJS](https://quarto.org/docs/presentations/revealjs/)
 :::
 
-## Partie 1
+## 1. Les bases de données
 
 blabla
 
 ::: aside
 Some additional commentary of more peripheral interest.
 :::
+
+### 1.1 Comment stocker les données
+
+dans calc
+
+### 1.2 les bddr
+
+Bddr
+
+## 2. Partie 2
+
+2e partie
