@@ -9,6 +9,7 @@ from: markdown+emoji
 # Objectifs
 
 Vous apporter les connaissances pour :
+
 - mener à bien votre projet informatique
 - développer votre culture informatique
 - vous permettre de comprendre les outils de traitements de la donnée

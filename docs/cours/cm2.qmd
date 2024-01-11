@@ -1,14 +1,13 @@
 ---
-title: "CM1"
+title: "CM2"
 author: "Ludovic Deneuville"
 format: 
   revealjs: 
     theme: moon
     footer: "Compléments d'info CM1"
     slide-number: c/t                   # collapsed/total
-    show-slide-number: print
     navigation-mode: vertical
-    preview-links: auto
+    preview-links: true
     chalkboard: true
     controls: true
 ---
@@ -23,9 +22,7 @@ format:
 - note 2
 :::
 
-# Lien vers un autre fichier qmd
 
-- [Git](git.html)
 
 # 1. Les bases de données
 

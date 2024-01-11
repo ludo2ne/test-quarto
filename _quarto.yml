@@ -4,7 +4,7 @@ project:
     - "**/*.qmd"
 
 website:
-  title: "Presentation template with Quarto and Revealjs"
+  title: "Quarto and Revealjs"
   navbar:
     background: "#447099"
     left:
@@ -22,7 +22,9 @@ website:
             text: "TP n°1"
     right: 
       - href: "https://quarto.org/"
-        text: "Quarto Docs"
+        text: "Quarto"
+      - href: "https://quarto.org/docs/presentations/revealjs/"
+        text: "Revealjs"
       - icon: github
         href: https://github.com/ludo2ne/test-quarto
 
