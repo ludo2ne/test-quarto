@@ -31,4 +31,4 @@ Des ressources complémentaires vous sont proposées si vous souhaitez parfaire 
 
 # TP 
 
-* [TP n°1](docs/tp/t1.qmd)
+* [TP n°1](docs/tp/tp1.qmd)

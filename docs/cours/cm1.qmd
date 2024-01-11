@@ -4,7 +4,7 @@ author: "Ludovic Deneuville"
 format: 
   revealjs: 
     theme: moon
-    footer: "[Compléments d'info](../../index.qmd)"
+    footer: "[Compléments d'info](../../index.html)"
     slide-number: c/t                   # collapsed/total
     navigation-mode: vertical
     preview-links: true
