@@ -24,7 +24,7 @@ format:
 
 # Lien vers un autre fichier qmd
 
-- [TP1](docs/tp/tp1.qmd)
+- [TP1](../tp/tp1.qmd)
 
 # 1. Les bases de données
 
