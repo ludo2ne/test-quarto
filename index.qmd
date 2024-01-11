@@ -1,7 +1,10 @@
 ---
 title: "Cours de compléments d'informatique"
 format: html
+from: markdown+emoji
 ---
+
+:construction:
 
 # Objectifs
 
@@ -21,6 +24,4 @@ Des ressources complémentaires vous sont proposées si vous souhaitez parfaire 
 
 # Cours
 
-* [docs cours cm1](docs/cours/cm1.qmd)
-* [cours cm1](cours/cm1.qmd)
-* [cm1](cm1.qmd)
+* [Cours n°1](docs/cours/cm1.qmd)

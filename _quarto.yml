@@ -31,7 +31,6 @@ format:
     theme: 
       - solar
       - style.css
-    toc: true
 
 
 
