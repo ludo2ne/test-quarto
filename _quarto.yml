@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
   render:
-    - "*.qmd"
+    - "**/*.qmd"
 
 website:
   title: "Presentation template with Quarto and Revealjs"
@@ -21,11 +21,16 @@ website:
         menu: 
           - href: docs/tp/tp1.md
             text: "TP n°1"
+    right: 
+      - href: "https://quarto.org/"
+        text: "Quarto Docs"
+      - icon: github
+        href: https://github.com/ludo2ne/test-quarto
 
 format:
   html:
     theme: 
-      - litera
+      - solar
       - style.css
     toc: true
 
