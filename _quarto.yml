@@ -18,7 +18,7 @@ website:
             text: "Cours n°2"
       - text: TP
         menu: 
-          - href: docs/tp/tp1.md
+          - href: docs/tp/tp1.qmd
             text: "TP n°1"
     right: 
       - href: "https://quarto.org/"

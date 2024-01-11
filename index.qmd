@@ -26,3 +26,9 @@ Des ressources complémentaires vous sont proposées si vous souhaitez parfaire 
 # Cours
 
 * [Cours n°1](docs/cours/cm1.qmd)
+* [Cours n°2](docs/cours/cm2.qmd)
+
+
+# TP 
+
+* [TP n°1](docs/tp/t1.qmd)
