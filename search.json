@@ -4,7 +4,21 @@
     "href": "index.html",
     "title": "Cours de compléments d’informatique",
     "section": "",
-    "text": "Objectifs\nVous apporter les connaissances pour : - mener à bien votre projet informatique - développer votre culture informatique - vous permettre de comprendre les outils de traitements de la donnée\nDifférentes notions vont être vues pendant ce cours. Certaines en CM, d’autres en TP. Des ressources complémentaires vous sont proposées si vous souhaitez parfaire vos connaissances.\n\n\nOrganisation\n\nCM : 4x1h30\nTP : 4x3h"
+    "text": "Objectifs\nVous apporter les connaissances pour : - mener à bien votre projet informatique - développer votre culture informatique - vous permettre de comprendre les outils de traitements de la donnée\nDifférentes notions vont être vues pendant ce cours. Certaines en CM, d’autres en TP. Des ressources complémentaires vous sont proposées si vous souhaitez parfaire vos connaissances.\n\n\nOrganisation\n\nCM : 4x1h30\nTP : 4x3h\n\n\n\ncours\n\ndocs cours cm1\ncours cm1\ncm1"
+  },
+  {
+    "objectID": "docs/cours/cm1.html#comment-stocker-les-données",
+    "href": "docs/cours/cm1.html#comment-stocker-les-données",
+    "title": "CM1",
+    "section": "1.1 Comment stocker les données",
+    "text": "1.1 Comment stocker les données\ndans calc"
+  },
+  {
+    "objectID": "docs/cours/cm1.html#les-bddr",
+    "href": "docs/cours/cm1.html#les-bddr",
+    "title": "CM1",
+    "section": "1.2 les bddr",
+    "text": "1.2 les bddr\nBddr"
   },
   {
     "objectID": "cm1.html#comment-stocker-les-données",
@@ -30,6 +44,20 @@
   {
     "objectID": "cm2.html#les-bddr",
     "href": "cm2.html#les-bddr",
+    "title": "CM1",
+    "section": "1.2 les bddr",
+    "text": "1.2 les bddr\nBddr"
+  },
+  {
+    "objectID": "docs/cours/cm2.html#comment-stocker-les-données",
+    "href": "docs/cours/cm2.html#comment-stocker-les-données",
+    "title": "CM1",
+    "section": "1.1 Comment stocker les données",
+    "text": "1.1 Comment stocker les données\ndans calc"
+  },
+  {
+    "objectID": "docs/cours/cm2.html#les-bddr",
+    "href": "docs/cours/cm2.html#les-bddr",
     "title": "CM1",
     "section": "1.2 les bddr",
     "text": "1.2 les bddr\nBddr"
