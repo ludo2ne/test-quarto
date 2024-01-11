@@ -18,3 +18,9 @@ Des ressources complémentaires vous sont proposées si vous souhaitez parfaire 
 
 - CM : 4x1h30
 - TP : 4x3h
+
+# cours
+
+* [docs cours cm1](docs/cours/cm1.qmd)
+* [cours cm1](cours/cm1.qmd)
+* [cm1](cm1.qmd)
