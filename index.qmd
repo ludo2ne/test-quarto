@@ -1,48 +1,20 @@
 ---
-title: "test Title"
-author: "Ludovic Deneuville"
-format: 
-  revealjs: 
-    theme: moon
-    footer: "Compléments d'info CM1"
-    slide-number: c/t
-    show-slide-number: print
-    navigation-mode: vertical
-    preview-links: auto
-    chalkboard: true
-    controls: true
+title: "Cours de compléments d'informatique"
+format: html
 ---
 
-# Introduction
+# Objectifs
 
-- bonjour
-- [revealJS](https://quarto.org/docs/presentations/revealjs/)
+Vous apporter les connaissances pour :
+- mener à bien votre projet informatique
+- développer votre culture informatique
+- vous permettre de comprendre les outils de traitements de la donnée
 
-::: {.notes}
-- note 1
-- note 2
-:::
+Différentes notions vont être vues pendant ce cours. 
+Certaines en CM, d'autres en TP. 
+Des ressources complémentaires vous sont proposées si vous souhaitez parfaire vos connaissances.
 
-# Lien vers un autre fichier qmd
+# Organisation
 
-- [Git](git.html)
-
-# 1. Les bases de données
-
-blabla
-
-::: aside
-Some additional commentary of more peripheral interest.
-:::
-
-## 1.1 Comment stocker les données
-
-dans calc
-
-## 1.2 les bddr
-
-Bddr
-
-# 2. Partie 2
-
-2e partie
+- CM : 4x1h30
+- TP : 4x3h
